@@ -1,0 +1,9 @@
+[
+  {
+    "name": "temp_rate_curve",
+    "caption": "温度-速率曲线",
+    "type": "line",
+    "x": "temperature",
+    "y": "rate"
+  }
+]
